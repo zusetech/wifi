@@ -1,2 +1,2 @@
 # wifi
-Ejercicio de prueba
+Ejercicio de prueba imagen
